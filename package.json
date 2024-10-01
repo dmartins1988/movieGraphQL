@@ -3,5 +3,26 @@
     "express": "^4.21.0",
     "express-graphql": "^0.12.0",
     "graphql": "^15.9.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "moviegraphql",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmartins1988/movieGraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmartins1988/movieGraphQL/issues"
+  },
+  "homepage": "https://github.com/dmartins1988/movieGraphQL#readme",
+  "description": ""
 }
